@@ -10,6 +10,7 @@ This application is based on [heroku Node.js app](https://github.com/heroku/node
 3.create a meetup db with a table named comments and a column comment_url.  
 4.in the command line, run  
 ```
+$ cd meetyo  
 $ npm install  
 $ node meetup.js
 ```
