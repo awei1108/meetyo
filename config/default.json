@@ -1,0 +1,8 @@
+{
+    "yo" : {
+        "apiToken" : "{your yo api key}"
+    },
+    "meetup" : {
+        "url" : "{meetup api url}"
+    }
+}
