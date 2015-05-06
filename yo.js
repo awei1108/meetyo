@@ -33,7 +33,7 @@ exports.yo = function(url) {
 };
 
 function execute() {
-    this.yo();
+    _this.yo();
 }
 
 execute();
