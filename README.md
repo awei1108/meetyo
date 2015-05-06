@@ -1,6 +1,6 @@
 # meetyo
 
-Taipei Beginner Programmer Meetup [tbpm2015.herokuapp.com]
+Taipei Beginner Programmer Meetup [tbpm2015.herokuapp.com](http://tbpm2015.herokuapp.com)  
 
 This is a sample application to demo how to integrate Meetup.com API with Yo API.
 
