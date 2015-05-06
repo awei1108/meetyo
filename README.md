@@ -7,7 +7,7 @@ This is a sample application to demo how to integrate Meetup.com API with Yo API
 This application is based on [heroku Node.js app](https://github.com/heroku/node-js-getting-started.git)
 
 # Install
-1.git clone https://github.com/ucheng/meetyo.git  
+1.git clone https://github.com/ucheng/meetyo.git, or download it as a zip file.    
 
 2.Install related packages  
 ```
