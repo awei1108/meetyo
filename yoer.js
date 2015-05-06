@@ -1,7 +1,6 @@
 var https = require('https');
 var querystring = require('querystring');
 var config = require('config');
-var _this = this;
 
 //when something happend, send yo with the url to the subscribers
 exports.yo = function(url) {
@@ -31,9 +30,3 @@ exports.yo = function(url) {
       post_req.write(post_data);
       post_req.end();
 };
-
-function execute() {
-    this.yo();
-}
-
-execute();

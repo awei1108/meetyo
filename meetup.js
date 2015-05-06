@@ -4,7 +4,7 @@ var querystring = require('querystring');
 var pg = require('pg');
 var JSONbig = require('json-bigint');
 var config = require('config');
-var yoer = require('./yo.js');
+var yoer = require('./yoer.js');
 
 function execute() {
 
