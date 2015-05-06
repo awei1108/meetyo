@@ -6,12 +6,13 @@ This application is based on [heroku Node.js app](https://github.com/heroku/node
 
 
 1.git clone https://github.com/ucheng/meetyo.git  
-2.install related package  
+2.Install related package  
 ```
 $ cd meetyo  
 $ npm install  
 ```
-2.edit config/default.json  (update Yo API key and also Meetup.com API key)  
+2.Edit config/default.json  (update Yo API key and also Meetup.com API key)  
+**For security reason, please don't commit your API key into git.**  
 If you want to simply test it out, run  
 ```
 $ node yo.js
